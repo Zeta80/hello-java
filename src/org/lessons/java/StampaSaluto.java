@@ -11,7 +11,8 @@ public class StampaSaluto {
         System.out.print("Inserisci il tuo nome: ");
         String nome = input.nextLine();
         System.out.println("Ciao, " + nome + "!");
+        //prova commit terminale
     }
-    }
+}
 
 
